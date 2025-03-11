@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.1.0...v1.2.0) (2025-03-11)
+
+
+### Features
+
+* 4th feat ([cd1ca43](https://github.com/mmelodyRTR/release-please-demo/commit/cd1ca4369a55538c7b6b9ff717f6119e07f11d8c))
+
 ## [1.1.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.0.0...v1.1.0) (2025-03-11)
 
 
