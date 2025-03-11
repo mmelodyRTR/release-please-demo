@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.2.0...v1.3.0) (2025-03-11)
+
+
+### Features
+
+* 5th feature ([b1e8989](https://github.com/mmelodyRTR/release-please-demo/commit/b1e898968b2d48063b2bdfb9fbb3c529607d0191))
+* attempt to skip SNAPSHOT PRs from being created ([8cd96e8](https://github.com/mmelodyRTR/release-please-demo/commit/8cd96e80ebba9b8b61b8c63150e3f908cef893bd))
+
 ## [1.2.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.1.0...v1.2.0) (2025-03-11)
 
 
