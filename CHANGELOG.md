@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/mmelodyRTR/release-please-demo/compare/v1.3.0...v1.3.1) (2025-03-11)
+
+
+### Bug Fixes
+
+* change the release type in config file ([67ef0d6](https://github.com/mmelodyRTR/release-please-demo/commit/67ef0d6c26cce038ef51ea5971a3c8cef639a68e))
+
 ## [1.3.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.2.0...v1.3.0) (2025-03-11)
 
 
