@@ -1,7 +1,7 @@
 {
   "packages": {
     ".": {
-      "release-type": "simple",
+      "release-type": "maven",
       "skip-snapshot": true,
       "changelog-type": "github",
       "changelog-sections": [
