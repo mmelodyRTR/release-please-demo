@@ -2,6 +2,7 @@
   "packages": {
     ".": {
       "release-type": "simple",
+      "skip-snapshot": true,
       "changelog-type": "github",
       "changelog-sections": [
         {
