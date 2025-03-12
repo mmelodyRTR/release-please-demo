@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.3.1...v1.4.0) (2025-03-12)
+
+
+### Features
+
+* Band spanking new feature ([8e023b9](https://github.com/mmelodyRTR/release-please-demo/commit/8e023b99be0f7b3bec270547f2947102aef97256))
+
 ## [1.3.1](https://github.com/mmelodyRTR/release-please-demo/compare/v1.3.0...v1.3.1) (2025-03-11)
 
 
