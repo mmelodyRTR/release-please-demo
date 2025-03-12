@@ -17,5 +17,5 @@ on:
 jobs:
   build:
     name: Build (Reusable workflow)
-    uses: mmelodyRTR/mmelody-super-dooper-release-process/.github/workflows/maven-build.yml@v1.1.0
+    uses: mmelodyRTR/mmelody-super-dooper-release-process/.github/workflows/maven-build.yml@v1.2.0
     secrets: inherit
