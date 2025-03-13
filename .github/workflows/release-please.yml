@@ -10,11 +10,8 @@ permissions:
 name: release-please
 
 jobs:
-  release-please:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: googleapis/release-please-action@v4
-        with:
-          token: ${{ secrets.FINE_GRAINED_PAT }}
-          release-type: maven
-          config-file: .github/workflows/release-please/release-please-config.json
+  reelase-please:
+    name: Release Please (Reusable workflow)
+    uses: mmelodyRTR/mmelody-super-dooper-release-process/.github/workflows/release.yml@main
+    secrets: 
+      github-token: ${{ secrets.FINE_GRAINED_PAT }}
