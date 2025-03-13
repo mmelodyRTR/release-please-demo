@@ -13,5 +13,7 @@ jobs:
   reelase-please:
     name: Release Please (Reusable workflow)
     uses: mmelodyRTR/mmelody-super-dooper-release-process/.github/workflows/release.yml@main
+    with:
+      reset-release-properties: false
     secrets: 
       github-token: ${{ secrets.FINE_GRAINED_PAT }}
