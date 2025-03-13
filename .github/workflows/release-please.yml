@@ -16,4 +16,5 @@ jobs:
       - uses: googleapis/release-please-action@v4
         with:
           token: ${{ secrets.FINE_GRAINED_PAT }}
+          release-type: maven
           config-file: .github/workflows/release-please/release-please-config.json
