@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/mmelodyRTR/release-please-demo/compare/v1.4.0...v1.4.1) (2025-03-13)
+
+
+### Bug Fixes
+
+* Fix numero 2 ([24e2e87](https://github.com/mmelodyRTR/release-please-demo/commit/24e2e873a6946defd3c3cc313e6d28c27e5ac2d9))
+
 ## [1.4.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.3.1...v1.4.0) (2025-03-12)
 
 
