@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.0](https://github.com/mmelodyRTR/release-please-demo/compare/v1.4.1...v1.5.0) (2025-04-04)
+
+
+### Features
+
+* use reusable release please create workflow ([87b7cf5](https://github.com/mmelodyRTR/release-please-demo/commit/87b7cf54364eab4fa36e41cf8ffb90ceb1b77b27))
+
+
+### Bug Fixes
+
+* another fix, what are the chances ([a6b557c](https://github.com/mmelodyRTR/release-please-demo/commit/a6b557c4926a354b9f99476aeb4ddd9df2566ac9))
+* number 4 ([ba472f8](https://github.com/mmelodyRTR/release-please-demo/commit/ba472f8c203a54bf633382c6c75051a369869733))
+
 ## [1.4.1](https://github.com/mmelodyRTR/release-please-demo/compare/v1.4.0...v1.4.1) (2025-03-13)
 
 
